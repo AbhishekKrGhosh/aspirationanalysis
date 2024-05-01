@@ -1,0 +1,47 @@
+.navbar{
+width: 100%;
+height: 80px;
+padding: 10px 10px 10px 30px;
+background: white;
+display: flex;
+align-items: center;
+position: fixed;
+z-index: 203;
+}
+.logo{
+display: flex;
+align-items: center;
+}
+.logo img{
+    max-height: 80px;
+}
+.profile{
+    margin-left:2vw;
+}
+.profile img{
+    height: 50px;
+    width: 50px;
+    border-radius: 50%;
+    background: white;
+}
+.merge-buttons{
+    margin-left: 50vw;
+}
+.ml{
+    padding-left: 20px;
+    background: white;
+    border-top-left-radius: 20px;
+    border-bottom-left-radius: 20px;
+}
+.dark{
+    padding-right: 20px;
+    background: white;
+    border-top-right-radius: 20px;
+    border-bottom-right-radius: 20px;
+}
+.merge-buttons button{
+    width: 80px;
+    height: 50px;
+    border: none;
+    background: rgb(222, 222, 222);
+}

@@ -1,0 +1,38 @@
+.content{
+    height: 5300px;
+    width: 100%;
+}
+.upspace{
+    height: 2190px;
+    width: 100%;
+    background: #0E181E;
+}
+.contents{
+    padding: 20px;
+    display: flex;
+    flex-direction: column;
+}
+
+#webgi-canvas {
+    width: 100%;
+    height: 50%;
+    background: transparent;
+  }
+  
+  #webgi-canvas-container {
+    width: 100vw;
+    height: 100vh;
+    position: fixed;
+    display: flex;
+    justify-content: flex-end;
+    flex-direction: column;
+    align-items: center;
+    top: 0;
+    pointer-events: none;
+    min-height: 831px;
+    background: transparent;
+    z-index: 201;
+  }
+  
+
+  

@@ -1,0 +1,22 @@
+.content-info {
+    height: 350px;
+    width: 500px;
+    background-color: rgba(255,255,255,0.5); /* Light gray background */
+    border-radius: 10px; /* Rounded corners */
+    box-shadow: 0px 0px 20px rgba(0, 0, 0, 0.1); /* Soft shadow */
+    padding: 20px; /* Padding inside the div */
+    font-family: Arial, sans-serif; /* Font style */
+    color: white; /* Text color */
+    line-height: 1.6; /* Line height for better readability */
+    overflow: hidden; /* Hide overflow content */
+    display: flex;
+    flex-direction: column;
+    justify-content: center;
+    align-items: center;
+  }
+
+  /* Optional: Style for text inside the div */
+  .content-info p {
+    font-size: 16px; /* Font size */
+    margin: 0; /* Remove default margin */
+  }

@@ -1,0 +1,11 @@
+.contentcard{
+    height: 100%;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+}
+.contentimg{
+    height: 350px;
+    width: 500px;
+    border-radius: 20px;
+}

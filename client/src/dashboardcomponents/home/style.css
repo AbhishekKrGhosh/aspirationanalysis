@@ -1,0 +1,32 @@
+.home{
+display: flex;
+flex-direction: column;
+padding: 120px 0 0 120px;
+}
+.continue{
+display: flex;
+flex-direction: column;
+}
+.continue h2{
+    margin-right: auto;
+}
+.continuecontent{
+    display: flex;
+    gap: 20px;
+}
+.roadmap{
+
+    display: flex;
+    flex-direction: column;
+}
+.roadmap h2{
+    margin-right: auto;
+}
+.courses{
+
+    display: flex;
+    flex-direction: column;
+}
+.courses h2{
+    margin-right: auto;
+}

@@ -1,0 +1,6 @@
+.courses{
+    height: 400px;
+    display: flex;
+    padding: 50px;
+    justify-content: space-between;
+}
